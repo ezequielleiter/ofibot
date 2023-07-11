@@ -1,5 +1,5 @@
 const axios = require("axios");
-const { WEATER_TOKE } = require("../../../config");
+const { WEATER_TOKE } = require("../../../../config");
 
 const apiUrl = `https://ws.smn.gob.ar/map_items/weather`;
 const VILLA_LA_ANGOSTURA = "Villa La Angostura";
